@@ -2156,7 +2156,10 @@ input, select, textarea {
 		.rowimage {
 			display: flex;
 		  }
-
+          
+          .w3-hover-opacity:hover {
+            opacity: 0.55
+        }
 /* List */
 
 	ol {
