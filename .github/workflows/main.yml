@@ -11,7 +11,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.3.0
       with:
-        server:  webftp.active24.com
+        server:  webftp.active24.com/communitybuilders.world
         username: communityb4
         password: CdVSRDQpF9
         exclude: |
