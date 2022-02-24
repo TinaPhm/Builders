@@ -2871,7 +2871,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #141741;
+			background-color: #1c1f55;
 			color: #fff;
 		}
 
@@ -3030,11 +3030,11 @@ input, select, textarea {
 			}
 
 		.wrapper.style2 {
-			background-color: #141741;
+			background-color: #212463;
 		}
 
 		.wrapper.style3 {
-			background-color: #1b2069;
+			background-color: #252972;
 			color: #d3d4e4;
 		}
 
@@ -3193,7 +3193,7 @@ input, select, textarea {
 			}
 
 		.wrapper.style4 {
-			background-color: #141741;
+			background-color: #171946;
 			width: 100%;
 		}
 
@@ -4031,7 +4031,7 @@ input, select, textarea {
 	}
 
 	body.landing #footer {
-		background-color: #f9a629;
+		background-color: #001440;
 	}
 
 	body.is-mobile.landing #page-wrapper {
@@ -4046,5 +4046,5 @@ input, select, textarea {
 	}
 
 	body.is-mobile.landing #footer {
-		background-color: #f9a629;
+		background-color: #001440;
 	}
