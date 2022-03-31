@@ -1438,7 +1438,7 @@ input, select, textarea {
 			-ms-transition: opacity 0.325s ease-in-out;
 			transition: opacity 0.325s ease-in-out;
 			position: relative;
-			margin-top: 1.5rem;
+			margin-top: 2.5rem;
 		}
 
 
@@ -1661,6 +1661,38 @@ input, select, textarea {
 
 		}
 
+		/* Goto Next */
+
+	.goto-next {
+		border: 0;
+		bottom: 0;
+		display: block;
+		height: 5em;
+		left: 50%;
+		margin: 0 0 0 75em;
+		overflow: hidden;
+		position: absolute;
+		text-indent: 10em;
+		white-space: nowrap;
+		width: 10em;
+		z-index: 999;
+	}
+
+		.goto-next:before {
+			background-image: url("assets2/images/arrow.svg");
+			background-position: center center;
+			background-repeat: no-repeat;
+			background-size: contain;
+			content: '';
+			display: block;
+			height: 1.5em;
+			left: 50%;
+			margin: -0.75em 0 0 -1em;
+			position: absolute;
+			top: 50%;
+			width: 2em;
+			z-index: 999;
+		}
 /* Main */
 
 	#main {
