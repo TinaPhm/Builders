@@ -872,9 +872,8 @@ input, select, textarea {
 		  }
 		  
 		  .column {
-			flex: 33.33%;
-			padding-left: 1rem;
-			padding-right: 1rem;
+			flex: 20%;
+			padding-left: 2rem;
 		  }
 		
 		  .w3-hover-opacity:hover {
